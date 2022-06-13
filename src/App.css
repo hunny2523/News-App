@@ -1,0 +1,11 @@
+@media (min-width: 768px) {
+    .navbar-side {
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+    }
+    .navbar-expand-md {
+    flex-wrap:wrap;
+    justify-content: flex-start;
+  }
+}
